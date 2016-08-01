@@ -6,6 +6,8 @@ public class test {
 		
 		System.out.println("123456789");
 		
+		System.out.println("987654321");
+		
 	}
 
 }
