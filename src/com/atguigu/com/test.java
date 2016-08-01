@@ -10,6 +10,8 @@ public class test {
 		
 		System.out.println("huifu01");
 		
+		System.out.println("huifu02");
+		
 	}
 
 }
