@@ -12,6 +12,8 @@ public class test {
 		
 		System.out.println("huifu02");
 		
+		System.out.println("asdfghjkl;");
+		
 	}
 
 }
