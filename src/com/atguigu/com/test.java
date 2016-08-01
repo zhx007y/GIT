@@ -8,6 +8,8 @@ public class test {
 		
 		System.out.println("987654321");
 		
+		System.out.println("huifu01");
+		
 	}
 
 }
